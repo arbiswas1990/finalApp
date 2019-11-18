@@ -28,7 +28,10 @@ import org.springframework.stereotype.Component;
 /**
  * Welcome Page.
  * @author Marcelo Fernandes
+ author Francis Pascal
  */
+ 
+ 
 @Setter
 @Getter
 @Component
