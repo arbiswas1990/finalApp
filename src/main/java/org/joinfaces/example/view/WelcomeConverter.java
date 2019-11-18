@@ -24,6 +24,7 @@ import javax.faces.convert.FacesConverter;
 /**
  * Custom converter component.
  * @author Marcelo Fernandes
+ Goosebumps
  */
 @FacesConverter("org.joinfaces.example.view.WelcomeConverter")
 public class WelcomeConverter implements Converter {

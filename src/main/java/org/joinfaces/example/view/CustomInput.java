@@ -29,6 +29,7 @@ import javax.faces.context.ResponseWriter;
  * Custom input component.
  * @author Marcelo Fernandes
  */
+ //my name is ab
 @FacesComponent(createTag = true, namespace = "http://joinfaces.org/example",
 	tagName = "custom-input", value = "org.joinfaces.example.view.CustomInput")
 public class CustomInput extends UIInput {
